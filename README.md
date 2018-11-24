@@ -11,7 +11,7 @@ For this project I was given a web	-based application that reads RSS feeds. The 
 * Open index.html in your browser .  
 * Once loaded, test results should be displayed at the bottom of the page.
 * Tests that are green have passed and red have failed.
-* The online version 
+* The online version https://imanemouhcin.github.io/IM-Feed-Reader-testing/
 
 # How I completed this project:
 
